@@ -8,7 +8,7 @@ const forecast = require('./utils/forecast')
 // console.log(path.join(__dirname, '../public'))
 
 const app = express()                       //  express is a function with no arguments/parameters
-const port = process.env.PORT
+const port = process.env.PORT || 3000
 
 // define paths for express config
 const publicDir = path.join(__dirname, '../public')
