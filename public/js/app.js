@@ -1,5 +1,3 @@
-console.log('Client side javascript file is loaded')
-
 // to fetch data from some url then convert it to json then to something with it
 
 // fetch('http://localhost:3000/weather?address').then(response => {
