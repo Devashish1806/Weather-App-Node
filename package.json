@@ -1,5 +1,5 @@
 {
-  "name": "09_Application_Deployment",
+  "name": "09-application-deployment",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,13 @@
     "request": "^2.88.2"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devashish1806/Weather-App-Node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Devashish1806/Weather-App-Node/issues"
+  },
+  "homepage": "https://github.com/Devashish1806/Weather-App-Node#readme",
   "description": ""
 }
